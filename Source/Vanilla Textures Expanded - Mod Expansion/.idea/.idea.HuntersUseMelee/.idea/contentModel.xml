@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Netrve\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Netrve\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_HuntersUseMelee.-1425690146.00" t="ExcludeRecursive" />
+    <e p="G:\SteamLibrary\steamapps\common\RimWorld\Mods\HuntersUseMelee!\Assemblies" t="ExcludeRecursive" />
+    <e p="G:\SteamLibrary\steamapps\common\RimWorld\Mods\HuntersUseMelee!\Source\HuntersUseMelee" t="IncludeRecursive">
+      <e p="HuntersUseMelee.cs" t="Include" />
+      <e p="HuntersUseMelee.csproj" t="IncludeRecursive" />
+      <e p="HuntersUseMelee.sln" t="IncludeFlat" />
+      <e p="ModSettings.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

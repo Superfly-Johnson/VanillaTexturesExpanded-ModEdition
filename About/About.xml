@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Textures Expanded - Mod Edition</name>
+	<author>Oskar Potocki, Helixien, Erin, Cody Spring</author>
+  <packageId>superflyjohnson.vtexeme</packageId>
+	<url></url>
+	<supportedVersions>
+    <li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>VanillaExpanded.VTEXE</packageId>
+    	<displayName>Vanilla Textures Expanded</displayName>
+  		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2016436324</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+	<loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>brrainz.harmony</li>
+		<li>VanillaExpanded.VTEXE</li>
+  </loadAfter>
+  <description>Adding support for other mods to use Vanilla Texture Expanded textures as well as giving them Main GUI Icons.
+	
+New Textures:
+
+		Alpha Animals: Sky Steel, Blue Milk
+		Android Tiers: Nutrient Solution
+		Gemstones: All Gemstones
+		RimBees: Mead Fermenting Barrel
+		RimCuisine 2: Bottling and Booze: All fermenting barrels
+		
+New Main Button UI Icons for the following:
+
+		Medical Tab
+		Numbers
+		Misc. Robots
+		Hospitality (1.1 only)
+		WeaponStats
+		Colony Manager
+		Auto Seller
+		Empire
+		Pharmacist
+		InventoryTab
+		Colony Leadership
+		Days Matter (fork)
+		FloraTab
+		Mercenaries For Me
+		What the hack?!
+		Desynchronized: Tales and News
+		RPG Style Level Up Mod
+		[O21] WikiRim
+		
+		
+Requires Vanilla Textures Expanded, which can be found here:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2016436324
+
+All credit goes to Oskar Potocki, Helixien, and Erin.
+
+Additional Credit to Cody Spring for the original mod which I(Superfly Johnson) updated to 1.2.
+
+Will take down the mod on request by the original author.
+	</description>
+</ModMetaData>

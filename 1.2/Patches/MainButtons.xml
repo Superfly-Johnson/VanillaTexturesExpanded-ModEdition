@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Medical Tab</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="MedicalTab"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconMedical</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Numbers</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="kNumbersOverviewTab"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconNumbers</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Misc. Robots</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="AIRobots"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconRobots</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>WeaponStats</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="Bodlosh_WeaponStats"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconWeapons</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Colony Manager</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="Fluffy_Manager"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconManager</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Auto Seller</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="AutoSell"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconAutoSeller</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Empire</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="PColonyMainButton"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconEmpire</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Pharmacist</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="Pharmacist"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconPharmacist</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>InventoryTab</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="Inventory"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconInventory</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Colony Leadership</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="LeaderTab"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconColonyLeadership</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Days Matter (fork)</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="WiseClock_DaysMatter"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconDaysMatter</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>FloraTab</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="Bodlosh_FloraTab"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconFlora</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Mercenaries For Me</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="ARKPP_MercenariesSynth"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconMercenariesForMe</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>What the hack?!</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="WTH_Tab_Mechanoids"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconWhatTheHack</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Desynchronized: Tales and News (v2.0.0)</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="DesynchronizedTab"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconTalesAndNews</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>RPG Style Level Up Mod</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="RSLUM_tab"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconRPGStyleLevelUp</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>[O21] WikiRim</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="ModHelp"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconWikiRim</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
+	<Operation Class="PatchOperationFindMod">
+	<mods>
+	  <li>RimJobWorld</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+	  <success>Always</success>
+	  <operations>
+		<li Class="PatchOperationReplace">
+		  <xpath>/Defs/MainButtonDef[defName="Brothel"]/iconPath</xpath>
+		  <value>
+			<iconPath>UI/Buttons/MainButtons/IconBrothel</iconPath>
+		  </value>
+		</li>
+	  </operations>
+	</match>
+	</Operation>
+	<Operation Class="PatchOperationFindMod">
+	<mods>
+	  <li>Drug Response</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+	  <success>Always</success>
+	  <operations>
+		<li Class="PatchOperationReplace">
+		  <xpath>/Defs/MainButtonDef[defName="DrugResponse"]/iconPath</xpath>
+		  <value>
+			<iconPath>UI/Buttons/MainButtons/IconDrugResponse</iconPath>
+		  </value>
+		</li>
+	  </operations>
+	</match>
+	</Operation>
+</Patch>

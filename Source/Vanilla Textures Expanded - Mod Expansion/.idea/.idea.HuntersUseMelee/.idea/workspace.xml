@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9ec3cb6-906e-4347-8b22-5130dec31296" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/36108D57-F84D-49CA-BDAE-818C2A53FC38/6b/df0f3683/Listing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1C67EEDB-AD52-40CA-8138-9937339DFC77/62/c07cc937/Extensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HuntersUseMelee.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HuntersUseMelee.sln" />
+        <option value="$PROJECT_DIR$/StaticConstructor.cs" />
+        <option value="$PROJECT_DIR$/Alert_HuntersUseMelee.cs" />
+        <option value="$PROJECT_DIR$/HuntersUseMelee_Settings.cs" />
+        <option value="$PROJECT_DIR$/ModSettings.cs" />
+        <option value="$PROJECT_DIR$/../../Languages/English/Keyed/TranslationKeys.xml" />
+        <option value="$PROJECT_DIR$/HuntersUseMelee.csproj" />
+        <option value="$PROJECT_DIR$/HuntersUseMelee.cs" />
+        <option value="$PROJECT_DIR$/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/../../About/About.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abRcFam5zn7umHInGefx80q4lR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9ec3cb6-906e-4347-8b22-5130dec31296" name="Default Changelist" comment="" />
+      <created>1587002385551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587002385551</updated>
+      <workItem from="1587002391031" duration="122000" />
+      <workItem from="1587003021303" duration="6006000" />
+      <workItem from="1587022516731" duration="2865000" />
+      <workItem from="1587025701464" duration="15000" />
+      <workItem from="1587563083518" duration="7046000" />
+      <workItem from="1587575454069" duration="2004000" />
+      <workItem from="1587577479476" duration="2555000" />
+      <workItem from="1587583582789" duration="1000" />
+      <workItem from="1587603450130" duration="454000" />
+      <workItem from="1587640667418" duration="784000" />
+      <workItem from="1587665361978" duration="806000" />
+      <workItem from="1587669168644" duration="2744000" />
+      <workItem from="1587672312505" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587575088614">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1587575088614" />
+    <state x="839" y="113" key="SettingsEditor" timestamp="1587577329381">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="839" y="113" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1587577329381" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1587575927788">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1587575927788" />
+  </component>
+</project>
