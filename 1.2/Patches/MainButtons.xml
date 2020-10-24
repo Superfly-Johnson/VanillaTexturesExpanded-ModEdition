@@ -272,6 +272,22 @@
             </operations>
         </match>
     </Operation>
+        <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Rim War</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+            <operations>
+                <li Class="PatchOperationAdd">
+                    <xpath>/Defs/MainButtonDef[defName="RimWar"]</xpath>
+                    <value>
+                        <iconPath>UI/Buttons/MainButtons/IconRimWar</iconPath>
+                    </value>
+                </li>
+            </operations>
+        </match>
+    </Operation>
 	<Operation Class="PatchOperationFindMod">
 	<mods>
 	  <li>RimJobWorld</li>
